@@ -1,4 +1,5 @@
 
+[![](https://github.com/vpn-wiki/vpncn.github.io/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 # 如何修改Hosts文件
 
 ## 1.什么是 DNS 污染

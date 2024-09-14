@@ -1,4 +1,5 @@
 # 好用的VPN推荐，国内仅2款好用(2024年翻墙避坑)
+[![](https://github.com/vpn-wiki/vpncn.github.io/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 最近更新：`2024年7月25日`
 

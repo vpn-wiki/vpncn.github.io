@@ -1,4 +1,5 @@
 # 翻墙软件VPN推荐，中国仅2款好用(2024年最新)
+[![](https://github.com/vpn-wiki/vpncn.github.io/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 最近更新：`2024年6月26日`
 
