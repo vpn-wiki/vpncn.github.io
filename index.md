@@ -1,7 +1,7 @@
 # 好用的VPN推荐，国内仅2款好用(2024年翻墙避坑)
 [![](https://github.com/vpn-wiki/vpncn.github.io/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
-最近更新：`2024年9月16日`
+最近更新：`2024年11月02日`
 
 >**目前在中国能长期稳定地使用、好用的翻墙VPN很少了，网上的搜索结果中大部分都不是很靠谱，不少VPN测评网站上的推荐名单常年不变，而名单中推荐的部分VPN在国内已经无法使用，有些文章内容则是在网上拼凑的，没有一点时效性**。本文根据我自己的实际使用体验，介绍各款翻墙软件VPN近期使用情况，并不时根据最新的使用情况进行更新，供大家参考和排雷。这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接选择下方推荐的2款VPN就行了，不过国内用户使用之前建议要把相关的使用信息看完。
 
@@ -415,19 +415,17 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国Ziff Dav
 
 如果安装或者连接遇到问题，可以在官网的右下角的“帮助”在线聊天框，选择在线聊天->Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN(TCP)协议`**。
 
-除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
-
 ### 如何获取StrongVPN？
 
 1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
-[![Strong-device](https://www.linkv.org/img/StrongVPN-price-table-2023-07.png)](#如何获取strongvpn)
+[![Strong-device](https://www.linkv.org/img/StrongVPN-price-table-2024.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、信用卡和Paypal等，目前有特价活动，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“能看到优惠，单月套餐也可以使用。**如果实时的促销优惠大于特价20%的优惠，以实时优惠为准。**（在套餐选择页面的连接里面有“?cpn=...&”这个参数，这是优惠券码，新人优惠码是NEWSTRONG，目前打5折，可以改为“?cpn=NEWSTRONG”或“WELCOMESAFER”）
+付款方式支持支付宝Alipay、信用卡和Paypal等，如果是支付宝支付，默认是不会自动续费，要到期后自己手动续费；信用卡和Paypal是自动续费，可以订阅了之后在信用卡和Paypal的服务后台停掉自动续费，**等到期几天后Email发来的营销邮件一般会有优惠**。
 
 输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
-在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以联系客服下载精简版客户端并安装使用了，国内能连的服务器线路可以参考后文的Strong线路选择提示。
+在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以联系客服下载客户端并安装使用了。
 
 支付过程中可能会遇到问题（如下图）或是支付宝付款页面显示“参数遇到问题”，我付款时就遇到了，解决办法和下文一样，需要登录用户后台的“Billing Area”板块，付款订单进行确认就OK了。
 
@@ -468,9 +466,6 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国Ziff Dav
 
 >除了安装通用版的客户端，**中国Windows、Mac和安卓手机用户用户建议同时使用精简版客户端**，这是官网客服推荐在中国使用的。因为墙的干扰，标准版的客户端在国内部分地区首次使用账号登录困难，有时候精简版客户端更适合在中国使用，这也是为了防止被墙采取的替代措施，**最新版本请咨询官网Help页面右下角对话框客服获取，直接说在中国使用StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端**。安装专用精简版之前，可能需要把官网的标准版先装上,也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Help”帮助聊天框，选择Technical Support（技术支持）提出你的问题。
 >
->**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网右下角“帮助”聊天框联系技术客服"Technical Support"，联系客服说在中国使用就行了，客服会马上帮你设置OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中线路连接不上，需要选择合适的线路，可以参考[Strong线路如何选择](#strong线路选择)。
-
-[![Strong-feedback](https://www.linkv.org/img/strong-feedback-1.png)](#2-strongvpn--性价比最佳)
 
 **联系客服方式：**
 
